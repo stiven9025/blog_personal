@@ -1,0 +1,86 @@
+.container{
+    background-color: #1fb3b3;
+    
+}
+.titulo{
+    text-align: center;
+    color: white;
+    font-family: monospace;
+    
+
+}
+body{
+    background-color:green;
+    font-family:inherit;
+    opacity:0.97
+}
+p{
+    text-align: center;
+    opacity:0.9
+}
+
+
+
+.card-text{
+        font-size: 20px;
+        color: white;
+    }
+}
+
+#h5t {
+    text-align: center;
+    color: white;
+}
+
+.card-body {
+    color: white;
+    
+}
+
+.content {
+    color: white;
+    font-size: 20px;
+    font-family: inherit
+}
+
+.card {
+    background-color:darkgreen;
+    
+        
+}
+
+#description {
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family:sans-serif;
+    font-style:normal;
+    font-variant: small-caps
+}
+
+div {
+    
+}
+
+.mb-3 {
+    background-color:green;
+}
+
+
+
+.h{
+    color: black
+}
+
+h3 {
+    color: orange;
+    font-family: monospace;
+}
+
+footer {
+    background-color: green;
+    color: white
+}
